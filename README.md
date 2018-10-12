@@ -1,9 +1,4 @@
-# Homeworks
-Homeworks for Course in Python
-
-
-Homeworks of CV Block:
-- 004-classification.ipynb
-
+# CV multilanguage Tesseract OCR text recognition 
+Diploma for Course in Python
 Main:
-- Diploma.ipynb - python on tesseract with multiple-language (rus/eng) autodetection. Output is HTML or MD
+- Diploma.ipynb - python on tesseract with multiple-language (rus/eng) autodetection. Output is HTML or MD without fixed size
